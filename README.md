@@ -1,6 +1,6 @@
 # Prezentacja-wyszukiwanie najmniejszej i największej wartości
 
-## 1. Wstep 
+## 1. Wstęp 
 Wyszukiwanie wartosci minimalnych i maksymalnych to podstawowa operacja w programowaniu.
 
 Znajdywanie wartosci skrajnych jest istotnee w analizie danych, sortowaniu i algorytmach
@@ -18,7 +18,7 @@ print(max(liczby))
 
 ---
 
-## 3. Wyszukiwanie reczne 
+## 3. Wyszukiwanie ręczne 
 Ta technika jest szczególnie użyteczna, gdy uczymy się podstaw programowania lub gdy potrzebujemy lepszego zrozumienia, jak działają algorytmy na poziomie niskopoziomowym. Może być również przydatna w kontekstach, gdzie nie ma dostępu do wbudowanych funkcji, np. w środowiskach ograniczonej funkcjonalności.
 
 Jeśli chcemy samodzielnie zaimplementować takie wyszukiwanie bez korzystania z wbudowanych funkcji, możemy to zrobić poprzez iterację przez wszystkie liczby w pliku. Najpierw ustalamy pierwszą liczbę jako zarówno najmniejszą, jak i największą, a następnie porównujemy każdą kolejną liczbę z tymi wartościami, aktualizując je odpowiednio.
@@ -39,7 +39,7 @@ print(najwieksza)
 ```
 
 ---
-## 4. Uzycie funkcji sorted()
+## 4. Użycie funkcji sorted()
 
 ```python
 liczby = [3, 7, 2, 8, 1, 4]
