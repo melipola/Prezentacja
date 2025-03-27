@@ -69,12 +69,6 @@ print(min(liczby)) # Wynik: 5
 print(max(liczby)) # Wynik: 20
 ```
 ---
-## Przyklad nr 2
-```python
-slowa = ["pies", "kot", "słońce"]
-print(min(slowa)) # Wynik: kot
-print(max(slowa)) # Wynik: słońce
-```
 
 ## Zastosowanie w praktyce
 Znajdowanie najlepszego wyniku w grze
