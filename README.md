@@ -3,7 +3,7 @@
 ## 1. Wstęp 
 Wyszukiwanie wartosci minimalnych i maksymalnych to podstawowa operacja w programowaniu.
 
-Znajdywanie wartosci skrajnych jest istotnee w analizie danych, sortowaniu i algorytmach
+Znajdywanie wartosci skrajnych jest istotne w analizie danych, sortowaniu i algorytmach
 
 ---
 
