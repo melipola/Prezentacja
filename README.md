@@ -48,18 +48,6 @@ print(sortowanie[0])
 print(sortowanie[-1])
 ```
 
-## Użycie reduce() z modułu functools
-```python
-from functools import reduce
-
-liczby = [3, 7, 2, 8, 1, 4]
-najmniejsza = reduce(lambda a, b: a if a < b else b, liczby)
-najwieksza = reduce(lambda a, b: a if a > b else b, liczby)
-
-print(najmniejsza) # Wynik: 1
-print(najwieksza) # Wynik: 8
-```
-
 
 ## Przykład nr 1
 
